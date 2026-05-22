@@ -1,1 +1,8 @@
+used in the creation of object.
+much like a method
+same name as the class itself doesnt return any values.
+never include a return type from a constructor not even void 
+
+ 1) object initizlization
+2) overloading and chaining
 
